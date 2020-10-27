@@ -2,15 +2,18 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Scroojalix?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FScroojalix&screen_name=Scroojalix)
 
-<details>
-  <summary>Some facts about me</summary>
-  <br>
-    - 🥅 Current Goal: Make cool games.
-    - ⚡ Fun Fact: I was born in England.
-  
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=Scroojalix&show_icons=true&theme=nord)
-  <br>
-</details>
+### Facts about me:
+
+- 🥅 Current Goal: Make cool games.
+- ⚡ Fun Fact: I was born in England.
+
+<br>
+
+---
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Scroojalix&show_icons=true&theme=nord)
+
+---
 
 ### Contact Me:
 
