@@ -7,8 +7,6 @@
 - 🥅 Current Goal: Make cool games.
 - ⚡ Fun Fact: I was born in England.
 
-<br>
-
 ---
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Scroojalix&show_icons=true&theme=nord)
@@ -17,8 +15,8 @@
 
 ### Contact Me:
 
-[<img align="left" alt="Scroojalix | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Scroojalix | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Scroojalix | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Scroojalix | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 [twitter]: https://twitter.com/scroojalix
