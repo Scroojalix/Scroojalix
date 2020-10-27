@@ -6,6 +6,7 @@
 
 - 🥅 Current Goal: Make cool games.
 - ⚡ Fun Fact: I was born in England.
+- 🐱 I prefer cats over dogs, because they are cool.
 
 ---
 
@@ -13,7 +14,7 @@
 
 ---
 
-### Contact Me:
+### My Social Media:
 
 [<img align="left" alt="Scroojalix | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Scroojalix | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
