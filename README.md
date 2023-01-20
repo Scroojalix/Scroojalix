@@ -2,12 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Scroojalix?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FScroojalix&screen_name=Scroojalix)
 
-### Facts about me:
-
-- 🥅 Current Goal: Make cool games.
-- ⚡ Fun Fact: I was born in England.
-- 🐱 I prefer cats over dogs, because they are cool.
-
 ---
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Scroojalix&show_icons=true&theme=nord)
