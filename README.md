@@ -8,11 +8,16 @@
 
 ---
 
+### About Me
+* Currently studying Mechatronics Engineering at RMIT.
+* Very passionate about space, particularly NASA and SpaceX
+* Bit of a gamer
+* I code stuff too
+
 ### My Social Media:
 
 [<img align="left" alt="Scroojalix | YouTube" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
-[<img align="left" alt="Scroojalix | Twitter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
-
+[<img align="left" alt="Scroojalix | Twitter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />][twitter]
 
 [twitter]: https://twitter.com/scroojalix
 [youtube]: https://www.youtube.com/channel/UCu2Qx708xKTiQc2eiaoXAAg
